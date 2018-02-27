@@ -1,0 +1,15 @@
+What is git :
+	-Git is a free and open source, fast and distributed version control system (VCS), which by design is based on speed, efficient performance and data integrity to support small-scale to extensive software development projects.
+
+	-Git is a software repository that allows you to keep a track of your software changes, revert to previous version and create another versions of files and directories.
+
+	-Git is written in C, with a mix of Perl and a variety of shell scripts.
+
+Features of Git :
+-Easy to learn
+-It is fast and most of its operations are carried out locally, in addition, this offers it a tremendous speed on centralized systems that need to communicate with remote servers.
+-Highly efficient
+-Supports data integrity checks
+-Enables cheap local branching
+-Offers a convenient staging area
+-It also maintains multiple work-flows together with many others
