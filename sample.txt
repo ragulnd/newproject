@@ -1,1 +1,18 @@
 Hello all this my new git file created through the terminal in linux operating system.
+1.echo "New project" > readme.md - create the new file
+
+2.git init - initialize the git.(first time only after the created directory).
+after the init this "Initialized empty Git repository in /var/www/html/samplefolder/.git/" is displayed.
+
+3.git add filename - to add file into git.
+example git add readme.md
+
+4.git status - check the status of the git file.
+
+5.git commit -m "message" - it is used commit the file is ready to push.
+
+6.git remote add origin https://github.com/ragulnd/newproject.git - it is used to add origin.
+
+7.git push - it is used push the local server to git server or cloud.
+
+8.git branch - list branch and current present branch is highlighted into green and * symbol represent infornt the branch name.
