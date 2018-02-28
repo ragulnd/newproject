@@ -1,9 +1,0 @@
-Features of Git :
--Easy to learn
--It is fast and most of its operations are carried out locally, in addition, this offers it a tremendous speed on centralized systems that need to communicate with remote servers.
--Highly efficient
--Supports data integrity checks
--Enables cheap local branching
--Offers a convenient staging area
--It also maintains multiple work-flows together with many others
-
