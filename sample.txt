@@ -1,1 +1,8 @@
 Hello all this my new git file created through the terminal in linux operating system.
+Work Completed Today:
+1.Practiced about the following :
+-Reverted the git file after the commit and merge process.
+-Removed the files from git and local machine.
+Work In Process:
+1.Learning and practicing about the git ignore and stash
+2.Learning about the SSL certificate.
