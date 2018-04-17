@@ -1,3 +1,0 @@
-Remember to clone via SSH, not HTTPS, otherwise you may obviously be asked for the credentials.
-Remember to clone via SSH, not HTTPS, otherwise you may obviously be asked for the credentials.
-Remember to clone via SSH, not HTTPS, otherwise you may obviously be asked for the credentials.
